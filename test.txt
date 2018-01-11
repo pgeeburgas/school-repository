@@ -12,3 +12,5 @@ test bla bla
 git tort edit
 mnogo slojni
 promeni
+git bash edit
+git tort edit
